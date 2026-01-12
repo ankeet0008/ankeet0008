@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I’m Ankit Naik
 
-<!--
-**ankeet0008/ankeet0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AI & ML) Student
+💻 Aspiring Machine Learning Engineer
+📊 Python | NumPy | Data Analysis | ML Basics
 
-Here are some ideas to get you started:
+I’m passionate about building strong programming fundamentals and applying them to real-world AI/ML problems. I enjoy breaking down complex concepts into simple logic and continuously improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I’m Working On
+
+Machine Learning & Data Analysis projects
+
+End-to-End systems (like Chest X-Ray Classification)
+
+Strengthening Python, NumPy, and ML fundamentals
+
+🧠 Interests
+
+Coding & logic building
+
+Exploring AI/ML concepts
+
+Gaming (Valorant 🎮)
+
+Music 🎵 & Cooking 🍳
+
+📈 Goals
+
+Build impactful ML projects
+
+Contribute to open-source
+
+Grow as a software & AI engineer
+
+📫 Let’s connect and build something cool!
