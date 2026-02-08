@@ -1,6 +1,6 @@
-<!-- ANIMATED HEADER WAVE -->
+<!-- VENOM HEADER - UNIQUE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C7CFF,50:FF6F00,100:EC4899&height=220&section=header&text=Ankit%20Naik&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Machine%20Learning%20Engineer%20×%20Designer&descSize=18&descAlignY=55&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C7CFF,100:EC4899&height=200&section=header&text=Ankit%20Naik&fontSize=50&fontColor=FFFFFF&animation=twinkling"/>
 </p>
 
 <!-- TYPING SVG -->
@@ -12,21 +12,14 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-
-
-
-
-
-
-
-<!-- 🐍 SNAKE ANIMATION -->
+<!-- 🧬 NEURAL NETWORK GIF - UNIQUE FOR ML ENGINEER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankeet0008/ankeet0008/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500"/>
 </p>
 
-<!-- ANIMATED CODING GIF -->
+<!-- 3D CONTRIBUTION GRAPH - RARE -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/ankeet0008/ankeet0008/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </p>
 
 ---
