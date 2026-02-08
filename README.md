@@ -124,3 +124,6 @@ Deep Learning    ████████████████░░░░░
 UI/UX Design     ██████████████████░░░░░░   75%
 Data Analysis    ████████████████████░░░░   80%
 C / C++          ██████████████░░░░░░░░░░   58%
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankeet0008/ankeet0008/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
