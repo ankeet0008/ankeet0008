@@ -8,13 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=7C7CFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi,+I'm+Ankit+Naik+%F0%9F%91%8B;Machine+Learning+Engineer+in+the+Making;Designing+Data-Driven+Experiences;AI+%7C+ML+%7C+UI%2FUX+%E2%9C%A8" />
 </h1>
 
-<!-- ANIMATED SNAKE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+<!-- 🐍 SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankeet0008/ankeet0008/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 <!-- ANIMATED CODING GIF -->
@@ -114,7 +114,6 @@ I enjoy:
 
 ---
 
-<!-- SKILL PROGRESS BARS -->
 <h3 align="center">📈 Proficiency Breakdown</h3>
 
 ```text
@@ -124,6 +123,3 @@ Deep Learning    ████████████████░░░░░
 UI/UX Design     ██████████████████░░░░░░   75%
 Data Analysis    ████████████████████░░░░   80%
 C / C++          ██████████████░░░░░░░░░░   58%
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ankeet0008/ankeet0008/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
