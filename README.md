@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Ankit+Naik;CSE+(AI+%26+ML)+Student;Aspiring+Machine+Learning+Engineer;Turning+Data+into+Insights+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Ankit+Naik;CSE+(AI+%26+ML)+Student;Aspiring+Machine+Learning+Engineer;Python+%7C+ML+%7C+Data+Analysis" />
 </h1>
 
 <p align="center">
@@ -14,20 +14,8 @@
 💻 **Aspiring Machine Learning Engineer**  
 📊 **Python | NumPy | Data Analysis | ML Basics**
 
-I’m passionate about building **strong programming fundamentals** and applying them to **real-world AI/ML problems**.  
-I enjoy breaking down **complex concepts into simple logic** and continuously improving my **problem-solving skills**.
-
----
-
-## 🚀 What I’m Working On
-
-✨ Machine Learning & Data Analysis projects  
-🧠 End-to-End systems (e.g., **Chest X-Ray Classification**)  
-📈 Strengthening **Python, NumPy & ML fundamentals**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
+I’m passionate about building strong programming fundamentals and applying them to real-world AI/ML problems.  
+I enjoy simplifying complex concepts and improving my problem-solving skills.
 
 ---
 
@@ -44,11 +32,9 @@ I enjoy breaking down **complex concepts into simple logic** and continuously im
 - 🌍 Contribute to open-source  
 - 📈 Grow as a Software & AI Engineer  
 
-> *Let’s connect and build something cool!*
-
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/ankiitt_0008">
@@ -72,20 +58,20 @@ I enjoy breaking down **complex concepts into simple logic** and continuously im
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Fixed)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankeet0008&theme=tokyonight&show_icons=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankeet0008&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankeet0008&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ankeet0008&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankeet0008&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankeet0008&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🧮 Profile Views
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ankeet0008&icon=5&color=6"/>
