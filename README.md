@@ -1,125 +1,106 @@
-<!-- VENOM HEADER - UNIQUE -->
+<!-- HEADER & TYPING EFFECT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C7CFF,100:EC4899&height=200&section=header&text=Ankit%20Naik&fontSize=50&fontColor=FFFFFF&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C7CFF,100:EC4899&height=220&section=header&text=Ankit%20Naik&fontSize=70&fontColor=FFFFFF&animation=twinkling&desc=Machine%20Learning%20x%20Design&descSize=20&descAlignY=65"/>
 </p>
 
-<!-- TYPING SVG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=7C7CFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi,+I'm+Ankit+Naik+%F0%9F%91%8B;Machine+Learning+Engineer+in+the+Making;Designing+Data-Driven+Experiences;AI+%7C+ML+%7C+UI%2FUX+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=7C7CFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Crafting+Data-Driven+Experiences+%F0%9F%8E%A8;Machine+Learning+Engineer+in+the+Making+%F0%9F%9A%80;AI+%7C+ML+%7C+UI%2FUX+%E2%9C%A8" />
 </h1>
+
+<!-- SOCIAL LINKS (Replace "YOUR_USERNAME" with actual usernames where needed) -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:your_email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-<!-- 🧬 NEURAL NETWORK GIF - UNIQUE FOR ML ENGINEER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500"/>
-</p>
-
-<!-- 3D CONTRIBUTION GRAPH - RARE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ankeet0008/ankeet0008/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</p>
-
----
-
-<!-- ANIMATED SECTION HEADER -->
+<!-- ABOUT ME SECTION -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"/>
-  &nbsp;Who Am I?&nbsp;
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"/>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" height="28"/>
+  &nbsp; The Intersection of AI & Design &nbsp;
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" height="28"/>
 </h2>
 
-<table>
+<br/>
+
+<table border="0" align="center">
 <tr>
-<td width="60%">
+<td width="55%" align="left" valign="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> **CSE (AI & ML) Student**
+<h3>👨‍💻 Who Am I?</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> **Aspiring Machine Learning Engineer**
+I am a **Computer Science (AI & ML)** student passionate about bridging the gap between complex algorithms and human usability.
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> **UI/UX-oriented system thinker**
+- 🔭 **I’m currently working on:** End-to-end Deep Learning pipelines.
+- 🌱 **I’m currently learning:** MLOps & Advanced Computer Vision.
+- 🎨 **My superpower:** I combine **Machine Learning** with **Clean UI/UX** to build systems that are not only intelligent but elegant.
+- ⚡ **Fun fact:** I treat data preprocessing like an art form.
 
-I combine **machine learning + clean design** to build systems that are not only intelligent, but **usable and elegant**.
-
-I enjoy:
-- 📊 Turning messy data into insights  
-- 🔧 Designing ML pipelines end-to-end  
-- 🎯 Creating **intuitive, human-centric interfaces**
+> *"Design is not just what it looks like and feels like. Design is how it works."*
 
 </td>
-<td width="40%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
+<td width="45%" align="center">
+  <!-- Neural Network GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="90%"/>
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ACTIVITY GRAPH -->
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Technical Arsenal</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankeet0008&bg_color=0d1117&color=7C7CFF&line=EC4899&point=FF6F00&area=true&area_color=7C7CFF&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,scikitlearn,pandas&perline=6" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=cpp,git,figma,ts,linux,vscode&perline=6" />
+  </a>
 </p>
 
----
+<!-- BADGES BREAKDOWN -->
+<div align="center">
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/>
-  &nbsp;Skills (ML Engineer × Designer)&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/>
-</h2>
+### 🧠 Machine Learning & Data
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<!-- ANIMATED TECH ICONS -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
-</p>
+### 🎨 Design & Engineering
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
 
 <br/>
 
-### 🤖 Machine Learning & Data
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
-  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458"/>
-  <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=3F4F75"/>
-  <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
-</p>
+<!-- PROFICIENCY TERMINAL -->
+<h2 align="center">📊 Proficiency Breakdown</h2>
 
-### 🎨 UI / UX & Frontend Sense
-<p>
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-1F2937?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-  <img src="https://img.shields.io/badge/Design%20Thinking-1F2937?style=for-the-badge&logo=adobe&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-</p>
-
-### ⚙️ Engineering & Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%20%7C%20C++-0F172A?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-</p>
-
----
-
-<h3 align="center">📈 Proficiency Breakdown</h3>
-
-```text
-Python           ████████████████████░░░░   82%
-Machine Learning ██████████████████░░░░░░   72%
-Deep Learning    ████████████████░░░░░░░░   65%
-UI/UX Design     ██████████████████░░░░░░   75%
-Data Analysis    ████████████████████░░░░   80%
-C / C++          ██████████████░░░░░░░░░░   58%
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#7C7CFF', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#EC4899'}}}%%
+pie title Skills Distribution
+    "Python & ML" : 40
+    "Data Analysis" : 25
+    "UI/UX Design" : 20
+    "C / C++" : 10
+    "Web Dev" : 5
