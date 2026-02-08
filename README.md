@@ -1,37 +1,98 @@
-👋 Hi, I’m Ankit Naik
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Ankit+Naik;CSE+(AI+%26+ML)+Student;Aspiring+Machine+Learning+Engineer;Turning+Data+into+Insights+🚀" />
+</h1>
 
-🎓 CSE (AI & ML) Student
-💻 Aspiring Machine Learning Engineer
-📊 Python | NumPy | Data Analysis | ML Basics
-
-I’m passionate about building strong programming fundamentals and applying them to real-world AI/ML problems. I enjoy breaking down complex concepts into simple logic and continuously improving my problem-solving skills.
-
-🚀 What I’m Working On
-Machine Learning & Data Analysis projects
-End-to-End systems (like Chest X-Ray Classification)
-Strengthening Python, NumPy, and ML fundamentals
-
-🧠 Interests
-Coding & logic building
-Exploring AI/ML concepts
-
-📈 Goals
-Build impactful ML projects
-Contribute to open-source
-Grow as a software & AI engineer
-Let’s connect and build something cool!
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankiitt_0008) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankeetnaikk@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ankeet0008&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ankeet0008&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankeet0008&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212897787-1a7f7b7f-0dbe-4b2a-9a1b-6e7c59a8b6e4.gif" width="420"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ankeet0008&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍🎓 About Me
+
+🎓 **CSE (AI & ML) Student**  
+💻 **Aspiring Machine Learning Engineer**  
+📊 **Python | NumPy | Data Analysis | ML Basics**
+
+I’m passionate about building **strong programming fundamentals** and applying them to **real-world AI/ML problems**.  
+I enjoy breaking down **complex concepts into simple logic** and continuously improving my **problem-solving skills**.
+
+---
+
+## 🚀 What I’m Working On
+
+✨ Machine Learning & Data Analysis projects  
+🧠 End-to-End systems (e.g., **Chest X-Ray Classification**)  
+📈 Strengthening **Python, NumPy & ML fundamentals**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 🧠 Interests
+
+- 💡 Coding & logic building  
+- 🤖 Exploring AI & ML concepts  
+
+---
+
+## 🎯 Goals
+
+- 🚀 Build impactful ML projects  
+- 🌍 Contribute to open-source  
+- 📈 Grow as a Software & AI Engineer  
+
+> *Let’s connect and build something cool!*
+
+---
+
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://instagram.com/ankiitt_0008">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ankeet-naik">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ankeetnaikk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,tensorflow,pytorch,sklearn,keras,numpy,pandas,git,github&perline=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankeet0008&theme=tokyonight&show_icons=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankeet0008&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankeet0008&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧮 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ankeet0008&icon=5&color=6"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B61FF&height=120&section=footer"/>
+</p>
