@@ -5,10 +5,15 @@
 
 <!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Welcome+to+my+workspace;Crafting+intelligence+with+precision;AI+%7C+ML+%7C+UI%2FUX+Engineering;Where+data+meets+design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Welcome+to+my+workspace+%E2%9C%A6;Crafting+intelligence+with+precision;AI+%7C+ML+%7C+UI%2FUX+Engineering;Where+data+meets+design+%E2%98%85" />
 </p>
 
 <br/>
+
+<!-- MINIMAL ANIME CODING GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" style="border-radius: 15px;"/>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
@@ -16,13 +21,20 @@
 
 ---
 
-## <p align="center">`ABOUT`</p>
+<!-- ABOUT SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <code>About</code>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
+<br/>
 
 <table>
 <tr>
 <td width="55%">
 
-### Profile
+### Profile ✦
 ┌──────────────────────────────────┐
 │ │
 │ ▸ CSE (AI & ML) Student │
@@ -54,7 +66,12 @@ I combine **machine learning** and **clean design** to build systems that are no
 <td width="45%">
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f3d.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 10px;"/>
+</p>
+
+<p align="center">
+  <sub>「 コードは詩である 」</sub><br/>
+  <sub><i>Code is poetry</i></sub>
 </p>
 
 </td>
@@ -63,7 +80,19 @@ I combine **machine learning** and **clean design** to build systems that are no
 
 ---
 
-## <p align="center">`TECH STACK`</p>
+<!-- TECH STACK -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+  <code>Tech Stack</code>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+</h2>
+
+<br/>
+
+<!-- ANIME TECH GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+</p>
 
 <br/>
 
@@ -107,7 +136,8 @@ I combine **machine learning** and **clean design** to build systems that are no
 
 <br/>
 
-### <p align="center">Proficiency</p>
+<!-- SKILL BARS -->
+<h3 align="center">Proficiency ✦</h3>
 
 <div align="center">
 
@@ -122,9 +152,21 @@ I combine **machine learning** and **clean design** to build systems that are no
 
 </div>
 
+<br/>
+
+<!-- CUTE ANIME DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
+</p>
+
 ---
 
-## <p align="center">`GITHUB ANALYTICS`</p>
+<!-- GITHUB STATS -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28">
+  <code>GitHub Analytics</code>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28">
+</h2>
 
 <br/>
 
@@ -146,6 +188,13 @@ I combine **machine learning** and **clean design** to build systems that are no
 
 <br/>
 
+<!-- ANIME STATS DECORATION -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="200"/>
+</p>
+
+<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankeet0008&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=888888&text_color=AAAAAA&ring_color=FFFFFF" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ankeet0008&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=888888&currStreakNum=FFFFFF&sideNums=AAAAAA&dates=555555" height="170"/>
@@ -163,7 +212,10 @@ I combine **machine learning** and **clean design** to build systems that are no
 
 ---
 
-## <p align="center">`PHILOSOPHY`</p>
+<!-- PHILOSOPHY -->
+<h2 align="center">
+  <code>Philosophy</code>
+</h2>
 
 <br/>
 
@@ -188,9 +240,21 @@ text
 
 </div>
 
+<br/>
+
+<!-- ANIME PHILOSOPHY GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5571f619-e17c-4a14-ae43-a4a30a24b4f0.gif" width="300"/>
+</p>
+
 ---
 
-## <p align="center">`CONNECT`</p>
+<!-- CONNECT SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
+  <code>Connect</code>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
+</h2>
 
 <br/>
 
@@ -210,10 +274,18 @@ text
 
 <br/>
 
+<!-- CUTE ANIME SOCIAL GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441263-45bf-4bd2-a6e2-57076de33019.gif" width="50"/>
+</p>
+
 ---
 
 <br/>
 
+<!-- FOOTER METRICS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankeet0008&style=flat-square&color=000000&labelColor=000000&label=Profile%20Views"/>
   &nbsp;&nbsp;
@@ -224,11 +296,24 @@ text
 
 <br/>
 
+<!-- ANIME TYPING OUTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=400&lines=Simplicity+is+the+ultimate+sophistication;Less+noise.+More+signal.;Thanks+for+visiting"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=%E2%9C%A6+Simplicity+is+the+ultimate+sophistication+%E2%9C%A6;%E2%98%85+Less+noise.+More+signal.+%E2%98%85;%E2%99%A1+Thanks+for+visiting+%E2%99%A1;%E3%81%BE%E3%81%9F%E3%81%AD+See+you+again+%E3%81%BE%E3%81%9F%E3%81%AD"/>
+</p>
+
+<br/>
+
+<!-- CUTE ANIME CAT WAVE -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="150"/>
 </p>
 
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=120&section=footer"/>
+</p>
+
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
