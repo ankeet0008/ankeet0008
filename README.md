@@ -1,47 +1,63 @@
 <h1 align="center">Ankit Naik</h1>
 
 <p align="center">
-  <b>AI & ML Engineer</b> • Minimalist • Design-First Thinker
+  <b>AI & ML Engineer</b> · Clean Systems · Minimal Design
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Machine+Learning;Design-Driven+Engineering;Silent+But+Precise" />
 </p>
 
 <p align="center">
   ──────────── ◉ ────────────
 </p>
 
-## About Me
+## ☠ About Me
 
-I am a **CSE (AI & ML) student** with a strong focus on  
-**machine learning fundamentals, clean system design, and minimal UI/UX**.
+I’m a **CSE (AI & ML) student** focused on building  
+**intelligent systems with clean structure and strong fundamentals**.
 
-I believe good engineering should feel:
-- Silent  
-- Precise  
-- Intentional  
+My approach:
+- Think deeply before coding  
+- Prefer clarity over complexity  
+- Design systems that explain themselves  
 
-No clutter. No noise. Just impact.
+I value **discipline, structure, and minimalism** — in both code and design.
 
 ---
 
-## Core Skills
+## 🦴 Core Skill Set
 
 - **Programming:** Python  
-- **Data & ML:** NumPy, Pandas, Machine Learning Basics  
-- **AI Concepts:** Model Training, Evaluation, Optimization  
-- **Design Sense:** UI/UX, Visual Hierarchy, Minimal Aesthetics  
+- **Machine Learning:** ML Fundamentals, Model Training, Evaluation  
+- **Data Handling:** NumPy, Pandas  
+- **Design Sense:** UI/UX, Layout Balance, Minimal Interfaces  
 - **Tools:** Git, GitHub, VS Code  
 
 ---
 
-## Tech Philosophy
+## 🩻 Skeleton Mode (Manga Theme)
 
-- Black & White over colors  
-- Clarity over complexity  
-- Design that supports intelligence  
-- Systems should explain themselves  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/main/skeleton.png" width="420" />
+</p>
+
+<p align="center">
+  <i>Under the surface, the structure matters.</i>
+</p>
 
 ---
 
-## Connect With Me
+## ⚙ Tech Philosophy
+
+> Black & White over distraction  
+> Fundamentals over shortcuts  
+> Design that supports intelligence  
+> Silence is also a feature  
+
+---
+
+## 🌐 Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/feed/" target="_blank">
