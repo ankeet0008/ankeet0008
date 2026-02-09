@@ -8,7 +8,6 @@
   
   <p><b>CSE (AI & ML) Student | Machine Learning Enthusiast | UI/UX Designer</b></p>
 
-  <!-- Social Navigation -->
   <p>
     <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN-HANDLE]" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -25,8 +24,6 @@
 </div>
 
 <br />
-
-<!-- About Me Section: Table Layout -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <!-- Left Column: Introduction & Details -->
