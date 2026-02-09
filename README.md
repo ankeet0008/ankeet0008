@@ -37,7 +37,7 @@
 
 </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/originals/06/83/e6/0683e6d7c78b3849b825ecaafa6d11b6.gif" width="300" alt="Astronaut GIF" />
+      <img src="https://i.pinimg.com/736x/c4/01/b7/c401b79864f569462c29c3537f1573fb.jpg" width="300" alt="Astronaut GIF" />
     </td>
   </tr>
 </table>
