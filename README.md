@@ -1,5 +1,7 @@
+Markdown
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&section=header" width="100%" />
+  <img src="https://i.pinimg.com/736x/b3/65/af/b365af02734efdf8cea73f0eff2f8920.jpg" width="100%" alt="Banner" />
 </div>
 
 <br/>
@@ -15,6 +17,10 @@
 
 <br/>
 
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="55%" valign="top">
+
 <h3>About</h3>
 🎓 2nd Year B.Tech AIML Student — India
 🔭 Exploring the intersection of AI & Design
@@ -23,6 +29,17 @@
 
 text
 
+
+</td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/736x/c4/01/b7/c401b79864f569462c29c3537f1573fb.jpg" width="250" alt="Astronaut" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
 
 <br/>
 
@@ -37,15 +54,23 @@ text
 
 <br/>
 
+---
+
+<br/>
+
 <h3>Stats</h3>
 
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankeet0008&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&icon_color=000000&text_color=555555&ring_color=000000&count_private=true&hide_title=true" />
 &nbsp;
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankeet0008&hide_border=true&background=00000000&stroke=00000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=555555&currStreakNum=000000&sideNums=000000&dates=999999" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankeet0008&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=555555&langs_count=6&hide_title=true" />
 
 </div>
+
+<br/>
+
+---
 
 <br/>
 
