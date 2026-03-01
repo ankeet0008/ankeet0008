@@ -1,38 +1,29 @@
-Markdown
-
-<div align="center">
-  <img src="https://i.pinimg.com/736x/b3/65/af/b365af02734efdf8cea73f0eff2f8920.jpg" width="100%" alt="Banner" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h1>Ankit Naik</h1>
-  <p><code>AIML Student · ML Enthusiast · UI/UX Designer</code></p>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="90%">
   <tr>
     <td width="55%" valign="top">
 
-<h3>About</h3>
-🎓 2nd Year B.Tech AIML Student — India
-🔭 Exploring the intersection of AI & Design
-🌱 Learning Deep Learning, NLP, and Prototyping
-🎯 Building AI-powered apps with beautiful interfaces
+### 🧠 About Me
 
-text
+```python
+class AnkitNaik:
+    role      = "AIML Student @ B.Tech (2nd Year)"
+    location  = "India 🇮🇳"
+    focus     = ["Deep Learning", "NLP", "UI/UX"]
+    building  = "AI-powered apps with beautiful interfaces"
+    mantra    = "Where Intelligence meets Design ✦"
+```
 
+- 🎓 2nd Year B.Tech in **AI & Machine Learning**
+- 🔭 Exploring the intersection of **AI & Design**
+- 🌱 Currently learning **Deep Learning, NLP & Prototyping**
+- 🎯 Passionate about building **smart + beautiful** products
+- 💡 Believer in design-first, data-driven thinking
 
-</td>
+    </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/736x/c4/01/b7/c401b79864f569462c29c3537f1573fb.jpg" width="250" alt="Astronaut" />
+      <img src="https://i.pinimg.com/736x/c4/01/b7/c401b79864f569462c29c3537f1573fb.jpg" width="240" style="border-radius: 20px;" alt="Astronaut" />
+      <br/><br/>
+      <img src="https://komarev.com/ghpvc/?username=ankeet0008&label=Profile+Views&color=000000&style=flat-square" alt="Profile Views" />
     </td>
   </tr>
 </table>
@@ -41,30 +32,11 @@ text
 
 ---
 
-<br/>
-
-<h3>Tech</h3>
-
-| Languages | AI / ML | Design | Tools |
-|:---------:|:-------:|:------:|:-----:|
-| Python | Scikit-Learn | Figma | Git |
-| Java | Pandas | Canva | VS Code |
-| C++ | NumPy | | Google Colab |
-| | TensorFlow | | Jupyter |
-
-<br/>
-
----
-
-<br/>
-
-<h3>Stats</h3>
+### ⚙️ Tech Stack
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankeet0008&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&icon_color=000000&text_color=555555&ring_color=000000&count_private=true&hide_title=true" />
-&nbsp;
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankeet0008&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=555555&langs_count=6&hide_title=true" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,sklearn,pandas,numpy,figma,canva,git,vscode,github&theme=light" />
 
 </div>
 
@@ -72,13 +44,13 @@ text
 
 ---
 
-<br/>
-
-<h3>Connect</h3>
+### 📊 GitHub Stats
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/ankit-naik-387092321/) · [Instagram](https://instagram.com/ankiitt_0008) · [Email](mailto:ankeetnaikk@gmail.com) · [GitHub](https://github.com/ankeet0008)
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankeet0008&bg_color=ffffff&color=000000&line=333333&point=000000&area=true&hide_border=true" />
 
 </div>
 
@@ -86,6 +58,27 @@ text
 
 ---
 
+### 🏆 GitHub Trophies
+
 <div align="center">
-  <sub>Made with ❤️ by Ankit Naik</sub>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ankeet0008&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=1" width="96%" />
+
 </div>
+
+<br/>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/ankit-naik-387092321/)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/ankiitt_0008)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:ankeetnaikk@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/ankeet0008)
+
+</div>
+
+<br/>
