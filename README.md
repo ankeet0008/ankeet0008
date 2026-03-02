@@ -13,11 +13,11 @@ class AnkitNaik:
     mantra    = "Where Intelligence meets Design ✦"
 ```
 
-- 🎓 2nd Year B.Tech in **AI & Machine Learning**
-- 🔭 Exploring the intersection of **AI & Design**
-- 🌱 Currently learning **Deep Learning, NLP & Prototyping**
-- 🎯 Passionate about building **smart + beautiful** products
-- 💡 Believer in design-first, data-driven thinking
+-  2nd Year B.Tech in **AI & Machine Learning**
+-  Exploring the intersection of **AI & Design**
+-  Currently learning **Deep Learning, NLP & Prototyping**
+-  Passionate about building **smart + beautiful** products
+-  Believer in design-first, data-driven thinking
 
     </td>
     <td width="45%" align="center" valign="middle">
