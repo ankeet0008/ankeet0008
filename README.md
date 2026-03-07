@@ -36,7 +36,7 @@ class AnkitNaik:
 ### ⚙️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,sklearn,pandas,numpy,figma,canva,git,vscode,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,figma,git,vscode,github&theme=light" />
 </div>
 
 <br/>
