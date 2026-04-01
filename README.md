@@ -2,7 +2,7 @@
   <tr>
     <td width="55%" valign="top">
 
-### 🧠 About M
+### 🧠 About Me
 
 ```python
 class AnkitNaik:
