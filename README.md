@@ -10,7 +10,7 @@ class AnkitNaik:
     location  = "India 🇮🇳"
     focus     = ["Deep Learning", "NLP", "UI/UX"]
     building  = "AI-powered apps with beautiful interfaces"
-    portfolio = "ankitnaik.vercel.app"
+    portfolio = "ankitnaik.me"
     mantra    = "Where Intelligence meets Design ✦"
 ```
 
